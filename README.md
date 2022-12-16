@@ -1,6 +1,6 @@
 # React e-cShop Website
 
-##What I will need to do
+## What I will need to do
 
 ## Outline
 
