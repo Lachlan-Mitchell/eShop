@@ -1,0 +1,24 @@
+.PreSearchInfo {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1%;
+}
+
+img {
+  width: 125px;
+  height: 125px;
+}
+
+.pokeball {
+  height: 50px;
+  width: 50px;
+}
+.price {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.ProductCard {
+  border: 2px solid black;
+}

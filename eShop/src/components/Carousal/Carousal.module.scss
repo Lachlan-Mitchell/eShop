@@ -1,0 +1,9 @@
+.Carousal {
+  display: grid;
+  grid-template-columns: .25fr 1fr 1fr 1fr .25fr;
+  gap:1%;
+}
+
+.FavPokemon {
+  border: 1px solid rgba(255, 0, 0, 0.65)
+}
